@@ -1,4 +1,3 @@
-Aqui está um exemplo de um README.md para o seu projeto de mensageria com RabbitMQ e Python:
 
 ```markdown
 # Sistema de Mensageria com RabbitMQ e Python
