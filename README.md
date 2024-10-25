@@ -5,16 +5,16 @@
 Este projeto é uma implementação básica de um sistema de mensageria utilizando RabbitMQ e Python. Ele demonstra como criar um **Produtor** que envia mensagens para uma fila e um **Consumidor** que processa essas mensagens de forma assíncrona.
 
 ## Tecnologias Utilizadas
-- **Python**: Linguagem de programação usada para o Produtor e o Consumidor.
-- **RabbitMQ**: Sistema de mensageria utilizado para gerenciar as filas de mensagens.
-- **Pika**: Biblioteca Python utilizada para a comunicação com o RabbitMQ.
-- **Docker**: Ferramenta utilizada para rodar o RabbitMQ em containers.
+- Python: Linguagem de programação usada para o Produtor e o Consumidor.
+- RabbitMQ: Sistema de mensageria utilizado para gerenciar as filas de mensagens.
+- Pika: Biblioteca Python utilizada para a comunicação com o RabbitMQ.
+- Docker: Ferramenta utilizada para rodar o RabbitMQ em containers.
 
 ## Configuração do Ambiente
 
 ### Pré-requisitos
-- **Python 3.x**: Certifique-se de que o Python está instalado.
-- **Docker**: Utilize o Docker para rodar o RabbitMQ.
+- Python 3.x: Certifique-se de que o Python está instalado.
+- Docker: Utilize o Docker para rodar o RabbitMQ.
 
 ### Instalação do RabbitMQ via Docker
 Para rodar o RabbitMQ, execute o seguinte comando no terminal:
